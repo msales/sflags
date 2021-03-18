@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/alecthomas/kingpin"
-	"github.com/octago/sflags"
+	"github.com/msales/sflags"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

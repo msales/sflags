@@ -7,8 +7,8 @@ import (
 	"log"
 	"testing"
 
-	"github.com/octago/sflags"
-	"github.com/octago/sflags/gen/gflag"
+	"github.com/msales/sflags"
+	"github.com/msales/sflags/gen/gflag"
 	"github.com/stretchr/testify/assert"
 )
 

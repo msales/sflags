@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/octago/sflags"
-	"github.com/octago/sflags/gen/gcli"
+	"github.com/msales/sflags"
+	"github.com/msales/sflags/gen/gcli"
 	"github.com/urfave/cli"
 )
 
