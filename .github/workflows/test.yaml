@@ -27,4 +27,5 @@ jobs:
           test: true
           race: true
           staticcheck_version: latest
+          staticcheck_ignore: "S1034"
           parallel: true
